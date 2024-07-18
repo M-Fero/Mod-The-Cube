@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f077b7ad19b80eb4dbe93bf47c9b5b57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dirtMaskTextureBase: {instanceID: 0}
+  - dirtBrush: {instanceID: 0}
+  - material: {fileID: 2100000, guid: 829b23b845644bf408f1aec2ba8d0418, type: 2}
+  - uiText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
